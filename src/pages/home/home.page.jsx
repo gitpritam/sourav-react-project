@@ -3,6 +3,8 @@ import UserCard from "../../components/shared/userCard/UserCard";
 import USER_CONSTANTS from "../../constants/user.constants";
 
 const HomePage = () => {
+  //useState hook to manage the state of the users
+
   return (
     <div>
       <Navbar />
