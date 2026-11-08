@@ -3,9 +3,6 @@ import { useState } from "react";
 const ProductPage = () => {
   const [isVisible, setIsVisible] = useState(true);
 
-  //   const toggleVisibility = () => {
-
-  //   };
   console.log("isVisible:", isVisible);
   return (
     <div>
